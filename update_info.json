@@ -1,9 +1,9 @@
-﻿{
-    "version":  "4.4.1",
-    "latest_version":  "4.4.1",
-    "has_update":  true,
-    "update_type":  "patch",
-    "download_url":  "https://github.com/vubinhan123/Auto-updeat-IG_Loing/releases/download/v4.4.1/IG_LOGIN.exe",
-    "changelog":  "1. Thiet ke cot Proxy kem La co Quoc gia (Local IP hien co Viet Nam, Proxy hien quoc ky tuong ung theo IP tra cuu GeoIP sieu toc).\n2. Toi uu hoa mau sac hien thi sac net, tuong phan cao tren ca 2 giao dien Sang (Light Mode) \u0026 Toi (Dark Mode).\n3. Tu dong loc gon hien thi IP:Port tren bang danh sach profile ma van duy tri xac thuc uy quyen day du.",
-    "release_date":  "2026-09-16"
+{
+    "version": "4.4.2",
+    "latest_version": "4.4.2",
+    "has_update": true,
+    "update_type": "patch",
+    "download_url": "https://github.com/vubinhan123/Auto-updeat-IG_Loing/releases/download/v4.4.2/IG_LOGIN.exe",
+    "changelog": "1. Nâng cấp Thư viện Proxy: Mở popup chọn trực tiếp, hiển thị tên Profile đang dùng real-time.\n2. Cảnh báo thông minh chống gán trùng Proxy giữa các Profile.\n3. Tối ưu hóa hiển thị lá cờ quốc gia siêu tốc 0ms (Zero-Delay) chính xác 100%.\n4. Tự động sửa lỗi nhận diện IP proxy dạng user:pass@host:port.",
+    "release_date": "2026-09-16"
 }
