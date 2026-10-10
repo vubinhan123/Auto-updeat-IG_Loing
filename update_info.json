@@ -1,9 +1,9 @@
 {
-    "version": "4.4.6",
-    "latest_version": "4.4.6",
+    "version": "4.4.7",
+    "latest_version": "4.4.7",
     "has_update": true,
     "update_type": "patch",
-    "download_url": "https://github.com/vubinhan123/Auto-updeat-IG_Loing/releases/download/v4.4.6/IG_LOGIN.exe",
-    "changelog": "1. Bản vá hoàn thiện tiêu đề thanh Taskbar và cửa sổ ứng dụng v4.4.6 chuẩn 100%.\n2. Tích hợp sẵn cơ chế bypass lỗi chứng chỉ SSL/Proxy tự động.\n3. Nâng cấp toàn diện Cửa Sổ Tổng Master Container Grid và đa luồng Chrome siêu mượt.",
+    "download_url": "https://github.com/vubinhan123/Auto-updeat-IG_Loing/releases/download/v4.4.7/IG_LOGIN.exe",
+    "changelog": "1. Khắc phục triệt để lỗi Gmail bị văng sau khi cập nhật: Bảo tồn 100% phiên đăng nhập và mã Gaia ID của Google.\n2. Kích hoạt Cửa Sổ Tổng Master Container Workspace chạy trực tiếp, mượt mà trên mọi máy khách hàng mà không cần cài đặt thêm Python.\n3. Tối ưu hóa cờ Chrome và hiệu năng hiển thị 60fps Native mượt mà.",
     "release_date": "2026-10-11"
 }
