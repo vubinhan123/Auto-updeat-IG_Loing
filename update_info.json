@@ -1,9 +1,9 @@
 {
-    "version": "4.4.5",
-    "latest_version": "4.4.5",
+    "version": "4.4.6",
+    "latest_version": "4.4.6",
     "has_update": true,
     "update_type": "patch",
-    "download_url": "https://github.com/vubinhan123/Auto-updeat-IG_Loing/releases/download/v4.4.5/IG_LOGIN.exe",
-    "changelog": "1. Nâng cấp toàn diện Cửa Sổ Tổng (Master Container Grid): Quản lý và hiển thị đa profile Chrome trực quan, siêu mượt.\n2. Tối ưu hóa thanh công cụ gọn gàng 34px, mở rộng diện tích làm việc tối đa cho các ô trình duyệt.\n3. Nâng cấp thuật toán cuộn và điều phối layout 6/12/24/30+ profile không giật lag.\n4. Giữ vững tính năng chống phát hiện fingerprint và tối ưu hóa bộ nhớ cache GeoIP.",
-    "release_date": "2026-10-10"
+    "download_url": "https://github.com/vubinhan123/Auto-updeat-IG_Loing/releases/download/v4.4.6/IG_LOGIN.exe",
+    "changelog": "1. Bản vá hoàn thiện tiêu đề thanh Taskbar và cửa sổ ứng dụng v4.4.6 chuẩn 100%.\n2. Tích hợp sẵn cơ chế bypass lỗi chứng chỉ SSL/Proxy tự động.\n3. Nâng cấp toàn diện Cửa Sổ Tổng Master Container Grid và đa luồng Chrome siêu mượt.",
+    "release_date": "2026-10-11"
 }
